@@ -36,28 +36,11 @@ BASE      East Java, Indonesia · Open to relocation
 
 </details>
 
-## Featured Projects
-
-| Engineering & Metallurgy | AI & Automation | Data & Learning |
-|---|---|---|
-| [Blast Furnace Models](https://github.com/ahmadishamulayadyakmal/Blast_Furnace_Calculation_Models) | [Career Ops](https://github.com/ahmadishamulayadyakmal/career-ops) | [ML Experiments](https://github.com/ahmadishamulayadyakmal/Eksperimen_SML_Ahmad-Ishamul-Ayady-Akmal) |
-| [USTB Ironmaking](https://github.com/ahmadishamulayadyakmal/USTB-M202461117) | [Workflow CI](https://github.com/ahmadishamulayadyakmal/Workflow-CI) | [Predictive Analytics](https://github.com/ahmadishamulayadyakmal/predictive-analytics) |
-| [Portfolio](https://github.com/ahmadishamulayadyakmal/ahmadishamulayadyakmal.github.io) | [Kiro Experiments](https://github.com/ahmadishamulayadyakmal/kiro) | [Image Classification](https://github.com/ahmadishamulayadyakmal/image-classification) |
-
 ## About Me
 
 Metallurgical engineer and M.Eng. candidate exploring the intersection of **metallurgy, computation, data, and artificial intelligence**.
 
 I develop computational tools, process visualizations, interactive simulators, and AI-assisted engineering projects with a practical, experimental mindset.
-
-## Current Focus
-
-- Numerical modeling of inclusion evolution in continuous casting
-- CFD and FEA using ANSYS Fluent and ANSYS Workbench
-- Metallurgical and laboratory data analysis with Python
-- Interactive engineering calculators and process simulators
-- Scientific dashboards and data visualizations
-- AI-assisted development and rapid scientific prototyping
 
 ## Engineering Toolkit
 
@@ -77,23 +60,6 @@ I develop computational tools, process visualizations, interactive simulators, a
 
 </div>
 
-## Project Areas
-
-| Metallurgical Systems | Engineering Tools |
-|---|---|
-| Inclusion evolution analysis | Heat-transfer calculators |
-| Continuous-casting process studies | Fluid-flow visualizers |
-| Metallurgical data visualizations | Process simulators |
-| SEM-EDS and laboratory utilities | Engineering design calculators |
-| Laboratory report automation | Interactive technical dashboards |
-
-| Web & AI Experiments | Open-Source Exploration |
-|---|---|
-| AI-assisted engineering applications | Scientific prototyping |
-| Interactive technical websites | Data-processing tools |
-| Rapid prototypes | AI-assisted documentation |
-| Engineering data dashboards | Experimental automation |
-
 ## GitHub Activity
 
 <div align="center">
@@ -104,18 +70,6 @@ I develop computational tools, process visualizations, interactive simulators, a
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadishamulayadyakmal&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF7A00&currStreakLabel=22D3EE" />
 
 </div>
-
-## Education
-
-```text
-[2024—2027] M.Eng. Metallurgical Engineering
-             University of Science and Technology Beijing
-             LPDP–Tsingshan Group Scholarship
-
-[2019—2023] B.Eng. Electrical Engineering
-             University of Jember
-             Djarum Beasiswa Plus Awardee
-```
 
 ## Let's Connect
 
