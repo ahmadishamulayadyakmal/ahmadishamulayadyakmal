@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Metallurgical+Engineer;Process+Modeling+%26+Simulation;Metallurgical+Data+Analytics;AI-Assisted+Engineering+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=36&duration=2800&pause=900&color=38BDF8&background=0D1117&border=true&border_color=38BDF8&center=true&vCenter=true&width=1000&height=70&lines=Metallurgical+Engineer;Process+Modeling+%26+Simulation;Metallurgical+Data+Analytics;AI-Assisted+Engineering+Explorer)](https://git.io/typing-svg)
 
 **Turning complex process data into simulations, visualizations, and useful engineering tools.**
 
