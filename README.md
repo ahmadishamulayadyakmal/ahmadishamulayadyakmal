@@ -14,7 +14,7 @@
 <summary><b>⚡ Quick profile</b></summary>
 
 ```text
-$ ./identify --user ahmad-ishamul
+PROFILE // AHMAD ISHAMUL
 ROLE      Metallurgical Engineer · M.Eng. Candidate
 FOCUS     CFD · Process Modeling · Data Analytics · AI
 BUILDING  Simulators · Scientific Websites · Engineering Tools
@@ -36,7 +36,7 @@ BASE      East Java, Indonesia · Open to relocation
 
 </details>
 
-## `> ls ./featured-projects`
+## Featured Projects
 
 | Engineering & Metallurgy | AI & Automation | Data & Learning |
 |---|---|---|
@@ -44,13 +44,13 @@ BASE      East Java, Indonesia · Open to relocation
 | [USTB Ironmaking](https://github.com/ahmadishamulayadyakmal/USTB-M202461117) | [Workflow CI](https://github.com/ahmadishamulayadyakmal/Workflow-CI) | [Predictive Analytics](https://github.com/ahmadishamulayadyakmal/predictive-analytics) |
 | [Portfolio](https://github.com/ahmadishamulayadyakmal/ahmadishamulayadyakmal.github.io) | [Kiro Experiments](https://github.com/ahmadishamulayadyakmal/kiro) | [Image Classification](https://github.com/ahmadishamulayadyakmal/image-classification) |
 
-## `> whoami`
+## About Me
 
 Metallurgical engineer and M.Eng. candidate exploring the intersection of **metallurgy, computation, data, and artificial intelligence**.
 
 I develop computational tools, process visualizations, interactive simulators, and AI-assisted engineering projects with a practical, experimental mindset.
 
-## `> cat current_focus.txt`
+## Current Focus
 
 - Numerical modeling of inclusion evolution in continuous casting
 - CFD and FEA using ANSYS Fluent and ANSYS Workbench
@@ -59,7 +59,7 @@ I develop computational tools, process visualizations, interactive simulators, a
 - Scientific dashboards and data visualizations
 - AI-assisted development and rapid scientific prototyping
 
-## `> ls ./engineering_stack`
+## Engineering Toolkit
 
 <div align="center">
 
@@ -77,7 +77,7 @@ I develop computational tools, process visualizations, interactive simulators, a
 
 </div>
 
-## `> ls ./projects`
+## Project Areas
 
 | Metallurgical Systems | Engineering Tools |
 |---|---|
@@ -94,7 +94,7 @@ I develop computational tools, process visualizations, interactive simulators, a
 | Rapid prototypes | AI-assisted documentation |
 | Engineering data dashboards | Experimental automation |
 
-## `> ./generate_insights.py`
+## GitHub Activity
 
 <div align="center">
 
@@ -105,7 +105,7 @@ I develop computational tools, process visualizations, interactive simulators, a
 
 </div>
 
-## `> cat education.log`
+## Education
 
 ```text
 [2024—2027] M.Eng. Metallurgical Engineering
@@ -117,7 +117,7 @@ I develop computational tools, process visualizations, interactive simulators, a
              Djarum Beasiswa Plus Awardee
 ```
 
-## `> ./connect --network`
+## Let's Connect
 
 <div align="center">
 
