@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Ahmad Ishamul Ayady Akmal metallurgical engineering profile</title>
+  <desc id="description">Animated furnace, molten metal flow, inclusion particles, and process telemetry.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0a1833"/>
+      <stop offset="1" stop-color="#08111f"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff3d00"/>
+      <stop offset="0.28" stop-color="#ff9d00"/>
+      <stop offset="0.54" stop-color="#fff3a6"/>
+      <stop offset="0.75" stop-color="#00e5ff"/>
+      <stop offset="1" stop-color="#176b87"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="core">
+      <stop offset="0" stop-color="#fff7bf"/>
+      <stop offset="0.18" stop-color="#ffd166"/>
+      <stop offset="0.62" stop-color="#ff6b00"/>
+      <stop offset="1" stop-color="#8f1d00"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#22d3ee" stroke-opacity="0.09" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="vessel"><rect x="760" y="45" width="330" height="205" rx="18"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="300" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+
+  <g opacity="0.25">
+    <path d="M0 235 C160 190 230 260 390 210 S650 170 760 220" fill="none" stroke="#22d3ee" stroke-width="2">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 235 C160 190 230 260 390 210 S650 170 760 220;M0 210 C160 260 230 190 390 240 S650 190 760 205;M0 235 C160 190 230 260 390 210 S650 170 760 220"/>
+    </path>
+  </g>
+
+  <g transform="translate(58 48)">
+    <g fill="#22d3ee" font-family="monospace" font-size="14">
+      <text x="0" y="0" opacity="0.9">METALLURGICAL / NUMERIC WORKSPACE</text>
+      <text x="0" y="30" fill="#ff9d00" font-size="38" font-weight="700" letter-spacing="1">AHMAD ISHAMUL AYADY AKMAL</text>
+      <text x="2" y="61" fill="#cbd5e1" font-size="17">PROCESS MODELING  ×  DATA ANALYTICS  ×  AI-ASSISTED ENGINEERING</text>
+    </g>
+
+    <g transform="translate(2 93)">
+      <rect width="590" height="98" rx="12" fill="#020617" fill-opacity="0.78" stroke="#22d3ee" stroke-opacity="0.35"/>
+      <text x="18" y="26" fill="#67e8f9" font-family="monospace" font-size="12">ENGINEERING SIGNALS</text>
+      <g fill="#64748b" font-family="monospace" font-size="11">
+        <text x="18" y="50">CFD / FEA</text>
+        <text x="18" y="72">INCLUSION MODEL</text>
+        <text x="18" y="94">PYTHON ANALYSIS</text>
+      </g>
+      <g font-family="monospace" font-size="11">
+        <text x="150" y="50" fill="#22d3ee">ONLINE</text>
+        <text x="150" y="72" fill="#f59e0b">EVOLVING</text>
+        <text x="150" y="94" fill="#a78bfa">EXPERIMENTING</text>
+      </g>
+      <g transform="translate(320 18)">
+        <polyline points="0,48 28,42 52,52 78,26 106,32 132,12 158,24 186,8 214,18 248,4" fill="none" stroke="#22d3ee" stroke-width="2" filter="url(#glow)">
+          <animate attributeName="opacity" values="0.45;1;0.45" dur="2.4s" repeatCount="indefinite"/>
+        </polyline>
+        <polyline points="0,48 28,42 52,52 78,26 106,32 132,12 158,24 186,8 214,18 248,4" fill="none" stroke="#22d3ee" stroke-width="7" opacity="0.08"/>
+      </g>
+    </g>
+  </g>
+
+  <g clip-path="url(#vessel)">
+    <rect x="760" y="45" width="330" height="205" rx="18" fill="#020617" fill-opacity="0.55" stroke="#22d3ee" stroke-opacity="0.32"/>
+
+    <g opacity="0.62">
+      <path d="M770 220 C820 180 860 240 920 190 S1012 155 1080 205" fill="none" stroke="#22d3ee" stroke-width="1.5">
+        <animate attributeName="d" dur="5s" repeatCount="indefinite" values="M770 220 C820 180 860 240 920 190 S1012 155 1080 205;M770 205 C820 245 860 175 920 220 S1012 180 1080 185;M770 220 C820 180 860 240 920 190 S1012 155 1080 205"/>
+      </path>
+      <path d="M770 185 C830 220 872 150 930 205 S1020 230 1080 165" fill="none" stroke="#22d3ee" stroke-width="1">
+        <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M770 185 C830 220 872 150 930 205 S1020 230 1080 165;M770 205 C830 160 872 225 930 175 S1020 160 1080 195;M770 185 C830 220 872 150 930 205 S1020 230 1080 165"/>
+      </path>
+    </g>
+
+    <ellipse cx="925" cy="170" rx="126" ry="90" fill="#ff6b00" opacity="0.08" filter="url(#glow)"/>
+    <ellipse cx="925" cy="170" rx="105" ry="70" fill="none" stroke="#ff9d00" stroke-width="3" stroke-opacity="0.48">
+      <animate attributeName="rx" values="105;115;105" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="ry" values="70;78;70" dur="3s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <circle cx="925" cy="170" r="54" fill="url(#core)" opacity="0.96" filter="url(#glow)">
+      <animate attributeName="r" values="50;58;50" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <g fill="#fff7bf">
+      <circle r="5" cx="810" cy="195"><animate attributeName="cx" from="810" to="1050" dur="7s" repeatCount="indefinite"/><animate attributeName="cy" values="195;150;205;195" dur="7s" repeatCount="indefinite"/></circle>
+      <circle r="3" cx="840" cy="120"><animate attributeName="cx" from="840" to="1060" dur="5.5s" begin="-2s" repeatCount="indefinite"/><animate attributeName="cy" values="120;185;130;120" dur="5.5s" begin="-2s" repeatCount="indefinite"/></circle>
+      <circle r="4" cx="795" cy="155"><animate attributeName="cx" from="795" to="1045" dur="6.2s" begin="-4s" repeatCount="indefinite"/><animate attributeName="cy" values="155;210;130;155" dur="6.2s" begin="-4s" repeatCount="indefinite"/></circle>
+      <circle r="2.5" cx="865" cy="225"><animate attributeName="cx" from="865" to="1070" dur="4.8s" begin="-1s" repeatCount="indefinite"/><animate attributeName="cy" values="225;145;190;225" dur="4.8s" begin="-1s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <g stroke="#22d3ee" fill="none" opacity="0.45">
+      <circle cx="925" cy="170" r="82" stroke-dasharray="8 10"><animateTransform attributeName="transform" type="rotate" from="0 925 170" to="360 925 170" dur="14s" repeatCount="indefinite"/></circle>
+      <circle cx="925" cy="170" r="94" stroke-dasharray="2 14"><animateTransform attributeName="transform" type="rotate" from="360 925 170" to="0 925 170" dur="11s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <rect x="760" y="45" width="330" height="205" rx="18" fill="none" stroke="#22d3ee" stroke-opacity="0.5"/>
+  </g>
+
+  <g transform="translate(950 248)" fill="#67e8f9" font-family="monospace" font-size="10">
+    <text x="0" y="0">PROCESS STATUS</text>
+    <circle cx="112" cy="-4" r="4" fill="#22c55e"><animate attributeName="opacity" values="0.25;1;0.25" dur="1.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <rect x="0" y="0" width="280" height="300" fill="url(#cyan)" opacity="0.07">
+    <animate attributeName="x" values="-280;1200" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>

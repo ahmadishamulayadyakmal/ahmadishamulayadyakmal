@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=AHMAD%20ISHAMUL&fontSize=46&fontColor=00E5FF&color=0:020617,100:0F172A&stroke=22D3EE&strokeWidth=1&animation=twinkling" />
+<img src="./header.svg" width="100%" alt="Animated metallurgical engineering profile header" />
 
 # Metallurgical Engineer · Process Modeling · Data Analytics
 
