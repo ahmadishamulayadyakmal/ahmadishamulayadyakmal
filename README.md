@@ -6,7 +6,7 @@
 
 [![STATUS](https://img.shields.io/badge/STATUS-EXPLORING_AI_%26_ENGINEERING-22C55E?style=for-the-badge&logo=activity&logoColor=white)](https://github.com/ahmadishamulayadyakmal)
 [![LOCATION](https://img.shields.io/badge/LOCATION-EAST_JAVA%2C_INDONESIA-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/East+Java,+Indonesia)
-[![OPEN TO](https://img.shields.io/badge/OPEN_TO-COLLABORATION-F59E0B?style=for-the-badge&logo= handshake&logoColor=white)](mailto:ishamulayadyakmal@gmail.com)
+[![OPEN TO](https://img.shields.io/badge/OPEN_TO-COLLABORATION-F59E0B?style=for-the-badge&logo=handshake&logoColor=white)](mailto:ishamulayadyakmal@gmail.com)
 
 </div>
 
