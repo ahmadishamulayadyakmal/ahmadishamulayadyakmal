@@ -36,6 +36,14 @@ BASE      East Java, Indonesia · Open to relocation
 
 </details>
 
+## `> ls ./featured-projects`
+
+| Engineering & Metallurgy | AI & Automation | Data & Learning |
+|---|---|---|
+| [Blast Furnace Models](https://github.com/ahmadishamulayadyakmal/Blast_Furnace_Calculation_Models) | [Career Ops](https://github.com/ahmadishamulayadyakmal/career-ops) | [ML Experiments](https://github.com/ahmadishamulayadyakmal/Eksperimen_SML_Ahmad-Ishamul-Ayady-Akmal) |
+| [USTB Ironmaking](https://github.com/ahmadishamulayadyakmal/USTB-M202461117) | [Workflow CI](https://github.com/ahmadishamulayadyakmal/Workflow-CI) | [Predictive Analytics](https://github.com/ahmadishamulayadyakmal/predictive-analytics) |
+| [Portfolio](https://github.com/ahmadishamulayadyakmal/ahmadishamulayadyakmal.github.io) | [Kiro Experiments](https://github.com/ahmadishamulayadyakmal/kiro) | [Image Classification](https://github.com/ahmadishamulayadyakmal/image-classification) |
+
 ## `> whoami`
 
 Metallurgical engineer and M.Eng. candidate exploring the intersection of **metallurgy, computation, data, and artificial intelligence**.
