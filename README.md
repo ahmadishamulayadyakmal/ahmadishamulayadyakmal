@@ -1,26 +1,40 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Animated metallurgical engineering profile header" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Metallurgical+Engineer;Process+Modeling+%26+Simulation;Metallurgical+Data+Analytics;AI-Assisted+Engineering+Explorer)](https://git.io/typing-svg)
 
-# Metallurgical Engineer · Process Modeling · Data Analytics
+**Turning complex process data into simulations, visualizations, and useful engineering tools.**
 
-Building computational tools, interactive simulators, and AI-assisted scientific projects.
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-020617?style=for-the-badge&logo=googlechrome&logoColor=00E5FF)](https://ahmadishamulayadyakmal.github.io)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ahmadishamulayadyakmal)
-[![Email](https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ishamulayadyakmal@gmail.com)
+[![STATUS](https://img.shields.io/badge/STATUS-EXPLORING_AI_%26_ENGINEERING-22C55E?style=for-the-badge&logo=activity&logoColor=white)](https://github.com/ahmadishamulayadyakmal)
+[![LOCATION](https://img.shields.io/badge/LOCATION-EAST_JAVA%2C_INDONESIA-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/East+Java,+Indonesia)
+[![OPEN TO](https://img.shields.io/badge/OPEN_TO-COLLABORATION-F59E0B?style=for-the-badge&logo= handshake&logoColor=white)](mailto:ishamulayadyakmal@gmail.com)
 
 </div>
 
+<details open>
+<summary><b>⚡ Quick profile</b></summary>
+
 ```text
-╔════════════════════════════════════════════════════════════╗
-║  SYSTEM       METALLURGICAL ENGINEERING WORKSPACE          ║
-║  STATUS       ONLINE                                       ║
-║  LOCATION     EAST JAVA, INDONESIA                         ║
-║  FOCUS        NUMERICAL MODELING & AI-ASSISTED DEVELOPMENT ║
-║  MISSION      TURN COMPLEX ENGINEERING DATA INTO TOOLS     ║
-╚════════════════════════════════════════════════════════════╝
+$ ./identify --user ahmad-ishamul
+ROLE      Metallurgical Engineer · M.Eng. Candidate
+FOCUS     CFD · Process Modeling · Data Analytics · AI
+BUILDING  Simulators · Scientific Websites · Engineering Tools
+BASE      East Java, Indonesia · Open to relocation
 ```
+
+</details>
+
+<details>
+<summary><b>🧭 Explore my workspace</b></summary>
+
+🔬 **Metallurgy** → inclusion evolution, continuous casting, steelmaking
+
+🧮 **Simulation** → CFD, FEA, heat transfer, multiphase flow
+
+🤖 **AI & Web** → AI-assisted coding, interactive dashboards, scientific visualizations
+
+📊 **Data** → Python analysis, laboratory data, process KPIs
+
+</details>
 
 ## `> whoami`
 
